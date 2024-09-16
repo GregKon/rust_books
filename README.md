@@ -1,3 +1,6 @@
+# se also
+https://koderbooks.ru/category/rust/
+
 # Learn Rust For FREE
 
 ## Best of the Best : 24 Premium Ebooks on Learning Rust
